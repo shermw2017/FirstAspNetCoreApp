@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FirstAspNetCoreApp.Controllers
 {
-    [Route("v2/")]
+    [Route("v3/")]
     [ApiController]
     public class InventoryController : ControllerBase
     {
